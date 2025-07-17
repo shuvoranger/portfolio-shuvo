@@ -84,6 +84,4 @@ _2009 – 2014_
 - Process Optimization & CI/CD  
 - DevOps with Azure  
 
----
 
-> 🚀 _Actively exploring impactful leadership roles that align with innovative engineering, product e_
