@@ -1,17 +1,15 @@
-# 👨‍💻 Shuvo Chandro Sarker
-
+# 👋 Hi, I'm Shuvo Chandro Sarker
 **Senior Engineering Manager**  
 📍 Dhaka, Bangladesh  
 📧 shuvoknighter@gmail.com | 📞 +8801737 476744  
-[🔗 LinkedIn](https://www.linkedin.com/in/shuvo-sarker-a2952a37/)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=shuvo-sarker&color=blue)
 
-## 🧾 Summary
-
+## 👨‍💻 About Me
 Experienced Senior Engineering Manager with over 10 years in software engineering, specializing in .NET-based backend systems, web application architecture, and technical team leadership. Proven track record in delivering scalable enterprise solutions, optimizing legacy systems, and mentoring cross-functional teams. Passionate about clean code, agile practices, and driving innovation through modern software development. Strong background in Azure DevOps, microservices, and software architecture patterns (SOLID, DDD, Clean Architecture). Known for bridging business goals with technology strategies while ensuring high team performance and stakeholder satisfaction.
 
----
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shuvo-sarker-a2952a37/)
 
 ## 💼 Experience
 
@@ -38,6 +36,12 @@ _2015 – 2018_
 - Managed database schema design and full-cycle project delivery.
 
 ---
+
+## 🔧 Tech Stack
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 
 ## 🛠️ Skills
 
