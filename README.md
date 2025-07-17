@@ -9,7 +9,7 @@
 
 ## 🧾 Summary
 
-Passionate and result-driven Software Engineer with over **10 years of experience** in developing scalable web and backend applications. Proficient in designing robust architecture, leading engineering teams, and driving agile software delivery. Strong leadership and mentoring skills combined with deep technical expertise in .NET technologies and system design.
+Experienced Senior Engineering Manager with over 10 years in software engineering, specializing in .NET-based backend systems, web application architecture, and technical team leadership. Proven track record in delivering scalable enterprise solutions, optimizing legacy systems, and mentoring cross-functional teams. Passionate about clean code, agile practices, and driving innovation through modern software development. Strong background in Azure DevOps, microservices, and software architecture patterns (SOLID, DDD, Clean Architecture). Known for bridging business goals with technology strategies while ensuring high team performance and stakeholder satisfaction.
 
 ---
 
